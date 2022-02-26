@@ -1,0 +1,11 @@
+*{
+    font-family: 'Verdana','DejaVu Sans',sans-serif;
+}
+
+p.odd{
+    background-color: rgb(235, 159, 171);
+}
+
+#cool{
+    font-size: 24px;
+}
